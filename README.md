@@ -1,6 +1,6 @@
 # financeiro
  Projeto Financeiro para adicionar e remover Receitas e Despesas
  
- Link do vercel enexado:
+ Caso você queira abrir o projeto, click aqui: 
  https://financeiro-ten.vercel.app/
 
