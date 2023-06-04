@@ -18,6 +18,10 @@ export const Container = styled.div`
         width: 100%;
         gap: 20px;
     }
+
+    @media screen and (orientation: landscape) {
+        width: 100%;
+  }
 `;
 
 export const InputContent = styled.div`
