@@ -21,6 +21,7 @@ export const Container = styled.div`
 
     @media screen and (orientation: landscape) {
         width: 100%;
+        padding: 15px;
   }
 `;
 
